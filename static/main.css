@@ -1,0 +1,30 @@
+body {
+    background: Linen;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 2.5em;
+    color: FireBrick;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 1.2em;
+    color: DarkSlateGray;
+}
+
+.flex {
+    text-align: center;
+}
+
+.inputs {
+    padding: 30px;
+}
+
+.inputs input {
+    margin-left: 30px;
+    padding: 7px;
+}
