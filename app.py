@@ -19,7 +19,7 @@ def main():
         <p>Enter 1 if attendance(in %) is 75 or greater else Enter 0.</p>
     </div>
     """
-     st.markdown(html_temp)
+    st.markdown(html_temp)
     sat_score=st.text_input("sat_score","Type here")
     attendance=st.text_input("attendance","Type here")
     if st.button('Predict'):
